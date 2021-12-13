@@ -1,4 +1,4 @@
-const units = ['bytes','KB','MB','GB','TB'];
+const units = ['bytes','KB','MB','GB'];
 
 function convertDigitalStorages(x){
     let value =0;
